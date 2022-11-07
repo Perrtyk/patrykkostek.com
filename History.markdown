@@ -1,9 +1,8 @@
 ## Certifications
-<html>
-<center>
+
 ### 3CX - Basic Certified Engineer
 <img src=""assets\image\3cx-engineer-badge.png" width="300" height="300">
-</center>
+
 ### Datto - RMM
 ### Datto - SaaS Protection
 ### Datto - Continuity
