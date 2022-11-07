@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Aboutcopy
+permalink: /aboutcopy/
 ---
 
 This website is a work in progress.
