@@ -7,11 +7,7 @@ permalink: /resume/
 <body>
     <center>
         <h1>Resume</h1>
-        <iframe src=
-"/assets/pdf/Resume.pdf/>
-    width="800"
-    height="500">
-        </iframe>
+        <embed src-"assets/pdf/Resume.pdf" type="application/pdf" width="100%" height="600px" />
     </center>
 </body>
 </html>
