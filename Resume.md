@@ -6,8 +6,8 @@ permalink: /resume/
 <html>
 <body>
     <center>
-        <h1>Resume</h1>
-        <embed src-"assets/pdf/Resume.pdf" type="application/pdf" width="100%" height="600px" />
+        <h1>Patryk Kostek</h1>
+        <object data="../assets/pdf/Resume.pdf" width="1000" height="1000" type='application/pdf'></object>
     </center>
 </body>
 </html>
